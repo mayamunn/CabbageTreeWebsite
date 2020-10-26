@@ -1,3 +1,8 @@
 body {
   background-image: linear-gradient(rgb(97, 230, 36), yellow)
 }
+
+.card-title-main, .card-text-main {
+  text-align: center;
+  text-shadow: 2px 2px 2px black;
+}
